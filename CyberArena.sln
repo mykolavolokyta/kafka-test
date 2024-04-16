@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentManagementService", "TournamentManagementService\TournamentManagementService.csproj", "{0201C625-7BE2-409E-BFDA-6AA4EA108419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentAndTokenManagement", "PaymentAndTokenManagement\PaymentAndTokenManagement.csproj", "{233ECA60-29F5-4D92-8D7D-2EBAD4BC1968}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentAndTokenManagementService", "PaymentAndTokenManagementService\PaymentAndTokenManagementService.csproj", "{233ECA60-29F5-4D92-8D7D-2EBAD4BC1968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

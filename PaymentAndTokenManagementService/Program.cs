@@ -26,9 +26,9 @@ try
         }
     }
 }
-catch (Exception)
+catch (Exception ex)
 {
-    throw;
+    Console.WriteLine(ex.Message);
 }
 
 public record Tournament(string Name, int Price);
