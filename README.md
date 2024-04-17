@@ -13,17 +13,17 @@ dotnet build
 ## Running
 - Tournament Management Service
 
-To run service:
+	To run service:
 ```
 cd TournamentManagementService
-
 dotnet run
 ```
 Service is located in ```\bin\Debug\net8.0\TournamentManagementService.exe```
-- Payment and Token Management Service
-To run service:
+- Communication Service
+
+	To run service:
 ```
-cd PaymentAndTokenManagementService
+cd CommunicationService
 dotnet run
 ```
-Service is located in ```\bin\Debug\net8.0\PaymentAndTokenManagementService.exe```
+Service is located in ```\bin\Debug\net8.0\CommunicationService.exe```

@@ -22,7 +22,7 @@ try
         if (responce.Message != null)
         {
             var tournament = JsonConvert.DeserializeObject<Tournament>(responce.Message.Value);
-            Console.WriteLine($"Name: {tournament.Name}, Price: {tournament.Price}");
+            Console.WriteLine($"Hello, Mister Bebra!\nNew tournament has been created!\nName: {tournament.Name}, Price: {tournament.Price}\nAre you in?\n\n");
         }
     }
 }
